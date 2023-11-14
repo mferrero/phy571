@@ -1,6 +1,6 @@
 Here is my project
 
-Line 1 -- version_main
+Line 1 -- version_main_correct
 Line 2
 Line 6
 Add one more
