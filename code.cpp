@@ -1,6 +1,4 @@
 #include<>
-#include<>
-#include<>
-#include<>
-#include<>
-#include<>
+
+print
+print
